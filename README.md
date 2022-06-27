@@ -1,7 +1,7 @@
 # Programação do Cinema
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/cinema-programacao/blob/master/assets/video/cinema-programacao.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/cinema-programacao/blob/master/src/assets/video/cinema-programacao.gif" alt="Site">
 
 ## 📄 Descrição
 Programação de filmes do cinema em São Paulo e Rio de Janeiro.
@@ -14,7 +14,7 @@ Site criado a partir de um exercício feito na Origamid.
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado através da Origamid.
 
-### <a href="https://www.origamid.com/">Acessar o site</a>
+### <a href="https://www.origamid.com/cursos/html-e-css-para-iniciantes">Acessar o módulo do curso</a>
 
 ## 💻 Tecnologias utilizadas
 
