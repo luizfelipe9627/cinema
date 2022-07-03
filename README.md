@@ -1,7 +1,7 @@
 # Programação do Cinema
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/cinema-programacao/blob/master/src/assets/video/cinema-programacao.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/cinema-programacao/blob/master/src/assets/video/cinema-programacao.gif" alt="Apresentação do Cinema programação">
 
 ## 📄 Descrição
 Programação de filmes do cinema em São Paulo e Rio de Janeiro.
