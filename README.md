@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Programação de filmes do cinema em São Paulo e Rio de Janeiro.
 
-### <a href="https://luizfelipe9627.github.io/cinema-programacao">Acesse o site</a>
+### <a href="https://luizfelipe9627-cinema.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Site criado a partir de um exercício feito na Origamid.
