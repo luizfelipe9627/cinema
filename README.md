@@ -14,7 +14,7 @@ Site criado a partir de um exercício feito na Origamid.
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado através da Origamid.
 
-### <a href="https://www.origamid.com/cursos/html-e-css-para-iniciantes">Acesse o módulo do curso</a>
+### <a href="https://www.origamid.com/cursos/html-e-css-para-iniciantes">Acesse o curso</a>
 
 ## 💻 Tecnologias utilizadas
 
