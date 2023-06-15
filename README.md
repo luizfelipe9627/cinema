@@ -1,26 +1,25 @@
-# Animais Fantásticos 
+# Programação do Cinema
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/animais-fantasticos/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do Animais Fantásticos">
+<img src="https://github.com/luizfelipe9627/cinema-programacao/blob/master/src/assets/video/cinema-programacao.gif" alt="Apresentação do Cinema programação">
 
 ## 📄 Descrição
-O animais fantásticos passa informações sobre algumas espécies de animais.
+Programação de filmes do cinema em São Paulo e Rio de Janeiro.
 
-### <a href="https://luizfelipe9627-animais-fantasticos.netlify.app">Acesse o projeto</a>
+### <a href="https://luizfelipe9627-cinema.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
-Esse foi um projeto final do módulo de JavaScript criado junto a Origamid.
+Site criado a partir de um exercício feito na Origamid.
 
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado através da Origamid.
 
-### <a href="https://www.origamid.com/curso/javascript-completo-es6">Acesse o curso</a>
+### <a href="https://www.origamid.com/curso/html-e-css-para-iniciantes">Acesse o curso</a>
 
 ## 💻 Tecnologias utilizadas
 
 - ``HTML5``
 - ``CSS3``
-- ``JAVASCRIPT``
 
 ## 🧑‍💻 Criador
 
